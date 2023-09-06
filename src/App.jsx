@@ -1,4 +1,4 @@
-import { Slider } from "./component/slider";
+import Slider from "./components/slider";
 
 function App() {
   return (
