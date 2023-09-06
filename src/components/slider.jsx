@@ -18,7 +18,7 @@ export default function Slider() {
     return imageData ? imageData.description : "";
   };
 
-/*
+  /*
   useEffect(() => {
     const currentImg = sliderIndex;
     const setCurrentImg = setInterval(() => {
